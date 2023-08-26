@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/taylan/Desktop/Applications/orm_package/orm_package/build",
-  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.7.0_4/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/opencv.dir/open_cv/orm.cpp.o -c /Users/taylan/Desktop/Applications/orm_package/orm_package/include/open_cv/orm.cpp",
-  "file": "/Users/taylan/Desktop/Applications/orm_package/orm_package/include/open_cv/orm.cpp",
-  "output": "CMakeFiles/opencv.dir/open_cv/orm.cpp.o"
-}
-]
