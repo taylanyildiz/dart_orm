@@ -1,0 +1,3 @@
+/Users/taylan/Desktop/Applications/orm_package/orm_package/build/CMakeFiles/opencv.dir
+/Users/taylan/Desktop/Applications/orm_package/orm_package/build/CMakeFiles/edit_cache.dir
+/Users/taylan/Desktop/Applications/orm_package/orm_package/build/CMakeFiles/rebuild_cache.dir
